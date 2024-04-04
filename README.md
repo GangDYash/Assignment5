@@ -47,4 +47,4 @@ Open License
 
 # Acknowledgement
 
-Special thanks to Omar Al-Trad for providing the lab materials and guidance.
+Special thanks to **Omar Al-Trad** for providing the lab materials and guidance.
