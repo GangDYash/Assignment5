@@ -43,7 +43,7 @@ This repository is maintained by **Yash Gangaram Dahibhate**.
 
 # License
 
-Open License
+For educational use. Permission is required for any use and credit must be given to the source. 
 
 # Acknowledgement
 
