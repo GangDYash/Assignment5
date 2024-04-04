@@ -11,7 +11,9 @@ To run the Python code provided in this repository, please make sure you have th
 
 ### Installing
 You can install the required Python libraries using pip:
-
+```bash
+echo "pip install pandas"
+```
 
 # Running the Tests
 
