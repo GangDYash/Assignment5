@@ -15,7 +15,7 @@ You can install the required Python libraries using pip:
 
 # Running the Tests
 
-The provided Python file (`Lab5_week8.ipynb`) demonstrates three different techniques for encoding categorical features: replacing values, label encoding, and one-hot encoding. Below is a breakdown of each technique used in the code.
+The provided Python file (`[Lab5_week8.ipynb](https://github.com/GangDYash/Assignment5/blob/12bab5ba24ead89807f7b23cf6c5e8b934ff6868/Lab5_week8.ipynb)`) demonstrates three different techniques for encoding categorical features: replacing values, label encoding, and one-hot encoding. Below is a breakdown of each technique used in the code.
 
 ## Breakdown of Tests
 
