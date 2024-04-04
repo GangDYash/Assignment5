@@ -27,7 +27,7 @@ This method replaces categories with desired numbers using the `replace()` funct
 
 ### Label Encoding:
 
-This technique converts categorical values into numerical labels using the `cat.codes` method in pandas. It assigns numerical labels between 0 and `n_categories-1` to each category.
+This technique converts categorical values into numerical labels using the `cat.codes` method in pandas. It assigns numerical labels to each category.
 
 ### One-Hot Encoding:
 
@@ -39,12 +39,12 @@ This code can be used as a reference for data preprocessing tasks involving cate
 
 # Author
 
-This repository is maintained by [Your Name].
+This repository is maintained by [Yash Gangaram Dahibhate].
 
 # License
 
-This project is licensed under the [license name] License - see the LICENSE file for details.
+Open License
 
 # Acknowledgement
 
-Special thanks to [Instructor's Name] for providing the lab materials and guidance.
+Special thanks to [Omar Al-Trad] for providing the lab materials and guidance.
