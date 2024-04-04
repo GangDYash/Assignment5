@@ -39,7 +39,7 @@ This code can be used as a reference for data preprocessing tasks involving cate
 
 # Author
 
-This repository is maintained by Yash Gangaram Dahibhate.
+This repository is maintained by **Yash Gangaram Dahibhate**.
 
 # License
 
